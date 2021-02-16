@@ -29,13 +29,9 @@ namespace GameProject
             List<OyunManager> oyunlar = new List<OyunManager> { ucakSimulasyonu };
 
 
-
             SatisManager satisManager = new SatisManager();
             satisManager.SatisYap(kampanyalar, oyuncu1, oyunlar);
             satisManager.DogrulamaYap(dogrulamalar);
-
-
-
 
         }
     }
