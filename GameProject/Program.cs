@@ -13,7 +13,7 @@ namespace GameProject
             oyuncu1.Adi = "Özge";
             oyuncu1.Soyadi = "Gürbüz";
             oyuncu1.DogumYili = "1999";
-
+             
             oyuncu1.Add(oyuncu1);
             oyuncu1.Update(oyuncu1);
             oyuncu1.Delete(oyuncu1);

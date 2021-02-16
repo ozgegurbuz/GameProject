@@ -8,7 +8,7 @@ namespace GameProject
     {
         public void Oyun()
         {
-            Console.WriteLine("Uçak Simülasyonu oyunu alınıyor...");
+            Console.WriteLine("Uçak Simülasyonu oyunu alınıyor..."); 
         }
     }
 }
